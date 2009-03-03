@@ -3,11 +3,11 @@ Summary:	PLD-LiveCD KDE4 KDM Theme
 Summary(pl.UTF-8):	Motyw KDM do PLD-LiveCD z KDE4
 Name:		kde4-livecd-kdmtheme
 Version:	0
-Release:	1
+Release:	2
 License:	LGPLv3
 Group:		X11/Libraries
 Source0:	%{name}.tar.gz
-# Source0-md5:	b3af6f399711552f526458b28deb157a
+# Source0-md5:	3dbcb1ce5f992778baef554c1becc5ae
 URL:		http://livecd.pld-linux.pl
 BuildRequires:	rpmbuild(macros) >= 1.293
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
